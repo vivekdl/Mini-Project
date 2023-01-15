@@ -6,9 +6,6 @@ import com.exam.exception.InvalidInputException;
 import com.exam.studentInterfcaeImpl.SudentInterfcaeImpl;
 import com.exam.studentinterface.*;
 
-/*
- * Author = vivek kumar 
- */
 public class TestMain {
 
 	public static Scanner scanner = new Scanner(System.in);
